@@ -2,7 +2,7 @@
 
 Template repository for Filmorate project.
 
-![Предварительная схема БД](https://disk.yandex.ru/i/wVEKSr5S1UhKUA)
+![Предварительная схема БД](https://dbdiagram.io/d/69690d62d6e030a0242a391e)
 
 #### Вывод 5 самых популярных фильмов
 
